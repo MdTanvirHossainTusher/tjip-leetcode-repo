@@ -1,4 +1,4 @@
-// TC = O(N*log(logN))
+// TC = O(Nlog(logN))
 // MC = O(2*N) where N is the max value of the range
 class Solution {
 public:
