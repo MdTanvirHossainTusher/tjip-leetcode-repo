@@ -26,7 +26,7 @@ public:
 
 /**********************************/
 // TC = O(N) where N = total no of battle ships
-// MC = O(1) no extra memory used, but value changed
+// MC = O(N) N no of recursion call
 class Solution {
 public:
     int dirs[5] = {-1, 0, 1, 0, -1};
