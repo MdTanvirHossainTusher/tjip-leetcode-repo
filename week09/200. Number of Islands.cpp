@@ -1,5 +1,5 @@
 // TC = O(N) where N = total no of cells in the grid
-// MC = O(1)
+// MC = O(N)
 class Solution {
 public:
     static const char VISITED = '2';
