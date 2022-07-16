@@ -1,5 +1,5 @@
-// TC = O(V + E)
-// MC = O(V) where V = no of cell in the grid
+// TC = O(N*M) where N * M = no of BLACK cell   
+// MC = O(N*M)
 class Solution {
 public:
     vector<pair<int, int> > pos;
